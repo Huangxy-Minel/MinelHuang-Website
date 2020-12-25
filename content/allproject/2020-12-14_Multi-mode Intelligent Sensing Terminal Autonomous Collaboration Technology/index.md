@@ -77,8 +77,6 @@ Link:
 
 ​		The simulation codes based on Python: 
 
-​		The research report: [pdf](./Research-Report)
-
 
 
 ### Research on RISC-V-based Intelligent Sensing Terminal
