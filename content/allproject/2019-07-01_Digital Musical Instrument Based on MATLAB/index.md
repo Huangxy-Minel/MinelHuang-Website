@@ -45,7 +45,7 @@ Team members:
 
 ​		Minel Huang, Chuhan Jiang, Yunyao Dong, Shiming Yang
 
-### The combination of music and DSP
+## The combination of music and DSP
 
 In this project, we wanted to synthesized different instrument sounds (piano, guitar, bass, violin, and drum). By analyzing physical sound mechanisms of the instrument, we remake these sounds in MATLAB and wrote digital reverbs, equalizers to modify sound effects as well.
 
