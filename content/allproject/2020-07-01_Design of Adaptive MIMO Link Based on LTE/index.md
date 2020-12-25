@@ -4,19 +4,17 @@ summary: National key projects. Advisor - Professor Shizhong Xu
 type: project
 
 tags: 
-- Wireless Sensor Networks
-- GD32
-- STM32
-- Embedded Systems
-- PSO
+- LTE 4G
+- MIMO
+- Communication
 
 authors:
 - Minel Huang
-- Zobin Huang
-- Sijun Feng
+- Chuhan Jiang
+- Boyu Teng
 
-date: "2020-12-04T00:00:00Z"
-lastmod: "2020-12-04T00:00:00Z"
+date: "2020-07-01T00:00:00Z"
+lastmod: "2020-07-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -31,7 +29,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-#url_pdf: ""
+url_pdf: "Project-Report.pdf"
 #url_slides: ""
 #url_video: ""
 

@@ -1,19 +1,17 @@
 ---
-title: Multi-mode Intelligent Sensing Terminal Autonomous Collaboration Technology
-summary: National key projects. Advisor - Professor Shizhong Xu
+title: Long-distance Anti-interference Communication System for Rescue and Disaster Relief
+summary: Advisor - Professor Zhizhong Fu
 type: project
 
 tags: 
-- LTE 4G
-- MIMO
-- 
-- Embedded Systems
-- PSO
+- QPSK
+- Communication
 
 authors:
 - Minel Huang
 - Chuhan Jiang
-- Boyu Teng
+- Shiming Yang
+- Diwei Xie
 
 date: "2020-07-01T00:00:00Z"
 lastmod: "2020-07-01T00:00:00Z"
