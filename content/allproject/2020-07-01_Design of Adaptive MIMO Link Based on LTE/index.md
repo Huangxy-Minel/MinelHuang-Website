@@ -29,7 +29,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "Design of Adaptive MIMO Link Based on LTE Project-Report.pdf"
+url_pdf: files/Design of Adaptive MIMO Link Based on LTE Project-Report.pdf
 #url_slides: ""
 #url_video: ""
 
