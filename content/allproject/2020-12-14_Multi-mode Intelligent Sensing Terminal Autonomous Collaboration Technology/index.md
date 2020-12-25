@@ -8,7 +8,8 @@ tags:
 - GD32
 - STM32
 - Embedded Systems
-- PSO
+- IoT
+- Network Science
 
 authors:
 - Minel Huang
@@ -31,7 +32,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-#url_pdf: ""
+url_pdf: "files/Multi-mode Intelligent Sensing Terminal Autonomous Collaboration Technology-Research-Report.pdf"
 #url_slides: ""
 #url_video: ""
 

@@ -6,15 +6,15 @@ type: project
 tags: 
 - QPSK
 - Communication
-- Shiming Yang
-- Diwei Xie
 
 authors:
 - Minel Huang
 - Chuhan Jiang
+- Shiming Yang
+- Diwei Xie
 
-date: "2020-07-01T00:00:00Z"
-lastmod: "2020-07-01T00:00:00Z"
+date: "2020-01-01T00:00:00Z"
+lastmod: "2020-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -45,4 +45,22 @@ Team members:
 
 ​		Minel Huang, Chuhan Jiang, Shiming Yang, Diwei Xie
 
+### QPSK-based Image Transmission System
 
+In this project we designed a image transmission system based on QPSK modulation. We used MATLAB & Simulation to realize long-distance real-time image transmission, and used FM to communicate with interphone. The system structure is as follows:
+
+Transmit structure:
+
+![](./featured.jpg)
+
+Receive structure:
+
+![](./01.png)
+
+The final result is as follows, and the bit error rate less than 0.0003 when receiver’s SNR is 10dB.
+
+![](./02.png)
+
+Link:
+
+​		MATLAB & Simulation projects:
