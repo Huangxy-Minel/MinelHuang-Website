@@ -1,26 +1,20 @@
 ---
-title: Wearable Intelligent Guide Device
-summary: Advisor - Professor Zhuming Chen & Professor Yubai Li
+title: Internet-based Signal Transmission System
+summary: Advisor - Professor Zhongxiao Yang
 type: project
 
 tags: 
-- Wearable Device
+- Network Science
 - Embedded System
 - STM32
 
 authors:
 - Minel Huang
-- Zobin Huang
-- Zhe Xu
-- Wenjing Lu
-- Yuwei Wang
-- Nan Chen
-- Hang Lu
 - Peng Xu
 - Jiajie Cai
 
-date: "2019-10-01T00:00:00Z"
-lastmod: "2019-10-01T00:00:00Z"
+date: "2019-08-01T00:00:00Z"
+lastmod: "2019-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -35,7 +29,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "files/Wearable Intelligent Guide Device.pdf"
+url_pdf: ""
 #url_slides: ""
 #url_video: ""
 
@@ -49,11 +43,13 @@ url_pdf: "files/Wearable Intelligent Guide Device.pdf"
 
 Team members:
 
-​		Minel Huang, Zobin Huang, Zhe Xu, Wenjing Lu, Yuwei Wang, Nan Chen, Hang Lu, Peng Xu, Jiajie Cai
+​		Minel Huang, Peng Xu, Jiajie Cai
 
-### Wearable Intelligent Guide Device
+### Internet-based Signal Transmission System
 
-In this project we designed a wearable guide device for blind people. The device could help them avoid obstacles through voice interaction. In addition, it has image recognition and positioning functions, which helps blind people stay safe in complex environments. The third generation of guide device is as shown above and the second generation of guide device is as follows:
+The project requirement is that collect signals at the same time and transmit the results to another terminal across the network via TCP. Therefore, we needed to design three terminals, which are responsible for collecting signals and output signal. The system structure is as follows:
+
+
 
 ![](./01.png)
 
