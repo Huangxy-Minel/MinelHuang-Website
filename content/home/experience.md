@@ -29,5 +29,17 @@ experience:
     date_start: '2017-09-01'
     date_end: ''
     description: ''
+
+  - title: Internship
+    company: Huawei
+    company_url: ''
+    location: Chengdu, China
+    date_start: '2020-08-06'
+    date_end: '2020-10-22'
+    description: |2-
+        Responsibilities include:
+        
+        * Analyzed and summarized the authentication and key interaction methods in 802.11 and participated in maintaining the existing access network project.
+        * Researched the 802.11ax protocol and collaborated on the programming of a new generation wireless router.
         
 ---
