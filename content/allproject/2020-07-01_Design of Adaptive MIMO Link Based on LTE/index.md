@@ -29,7 +29,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "Project-Report.pdf"
+url_pdf: "Design of Adaptive MIMO Link Based on LTE Project-Report.pdf"
 #url_slides: ""
 #url_video: ""
 
@@ -51,4 +51,10 @@ In this project, we built a MIMO Link simulation environment based on MATLAB, an
 
 ![](./featured.jpg)
 
-The communication modulation is OFDM, so that we could use frequency domain information for signal equalization, which greatly reduces algorithm complexity. To 
+The communication modulation is OFDM, so that we could use frequency domain information for signal equalization, which greatly reduces algorithm complexity. In order to increase the communication rate and reduce the bit error rate, we introduced MIMO equalization and adaptive technology. Final result is as follows:
+
+![](./01.png)
+
+Link:
+
+​		MATLAB simulation codes:
