@@ -1,6 +1,6 @@
 ---
-title: Multi-mode Intelligent Sensing Terminal Autonomous Collaboration Technology
-summary: National key projects. Advisor - Professor Xia Lei
+title: Design of Adaptive MIMO Link Based on LTE
+summary: Advisor - Professor Xia Lei
 type: project
 
 tags: 
@@ -29,7 +29,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: files/Design of Adaptive MIMO Link Based on LTE Project-Report.pdf
+url_pdf: "files/Design of Adaptive MIMO Link Based on LTE Project-Report.pdf"
 #url_slides: ""
 #url_video: ""
 
