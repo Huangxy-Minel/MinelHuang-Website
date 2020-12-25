@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Network Science
+    tag: Network Science
+  - name: Embedded Systems
+    tag: Embedded Systems
+  - name: Communication
+    tag: Communication
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
