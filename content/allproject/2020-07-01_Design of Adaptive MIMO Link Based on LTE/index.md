@@ -1,6 +1,6 @@
 ---
 title: Multi-mode Intelligent Sensing Terminal Autonomous Collaboration Technology
-summary: National key projects. Advisor - Professor Shizhong Xu
+summary: National key projects. Advisor - Professor Xia Lei
 type: project
 
 tags: 
@@ -10,8 +10,6 @@ tags:
 
 authors:
 - Minel Huang
-- Chuhan Jiang
-- Boyu Teng
 
 date: "2020-07-01T00:00:00Z"
 lastmod: "2020-07-01T00:00:00Z"
@@ -41,8 +39,14 @@ url_pdf: ""
 #slides: example
 ---
 
+Team members:
+
+​		Minel Huang, Chuhan Jiang, Boyu Teng
+
 ### Research on Adaptive MIMO Link based on OFDM modulation
 
 In this project, we built a MIMO Link simulation environment based on MATLAB, and the system structure as follows:
 
 ![](./featured.jpg)
+
+The communication modulation is OFDM, so that we could use frequency domain information for signal equalization, which greatly reduces algorithm complexity. To 

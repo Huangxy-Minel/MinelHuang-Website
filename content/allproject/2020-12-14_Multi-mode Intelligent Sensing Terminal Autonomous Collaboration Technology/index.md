@@ -43,6 +43,10 @@ url_code: ""
 #slides: example
 ---
 
+Team members: 
+
+​		Minel Huang, Zobin Huang, Sijun Feng
+
 The research could be divided into two parts: Research on Efficient Cluster-based Networking Protocol for WSN & Research on RISC-V-based Intelligent Sensing Terminal.
 
 ###  Research on Efficient Cluster-based Networking Protocol for WSN
