@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xinyang Huang
+title: Minel Huang
 
 # Is this the primary user of the site?
 superuser: true
