@@ -53,6 +53,6 @@ Finally, we used FL Studio to compose digital synthesized sounds into tracks and
 
 Link:
 
-​		You can listen the complete song by [this](https://huangxy-minel.github.io/assets/スパークル .wav). 
+​		You can listen the complete song by [this](https://huangxy-minel.github.io/assets/スパークル.wav). 
 
 ​		Complete project:
