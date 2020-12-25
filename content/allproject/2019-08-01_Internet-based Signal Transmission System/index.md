@@ -5,7 +5,7 @@ type: project
 
 tags: 
 - Network Science
-- Embedded System
+- Embedded Systems
 - STM32
 
 authors:
@@ -53,14 +53,10 @@ The project requirement is that collect signals at the same time and transmit th
 
 ![](./01.png)
 
-### Key Technology
+In order to synchronously collect signal in high-speed, we introduced PTP protocol based on DP83640. In addition, we introduced LwIP protocol to STM32H7 so that terminals can communicate with each other by TCP/IP connection. The final device is as follows and we participated in the National Electronic Design Competition.
 
-The system structure is as follows:
+![](./02.jpeg)
 
-![](./02.jpg)
+Link:
 
-We designed a Thermal Imaging Vision & Ultrasonic Obstacle Avoidance System which recognized obstacle types through neural network algorithms and measured distance to obstacles via the ultrasound system with an accuracy of 1 cm.
-
-Besides, we designed GPS & Inertial Navigation & Vision Navigation System which navigated by calling a navigation app software interface and achieved accurate velocity measurement via EKF algorithm and Kalman filter. Indoor navigation system error was ±50 cm without visual calibration and ±15 cm with visual calibration.
-
-Finally we applied for a Patent: A Wearable Intelligent Blind Guide Device (Current status: publication of invention patent application), Patent number: CN201910639192.3, and participated in the "Internet +" Innovation Competition.
+​		STM32 codes:

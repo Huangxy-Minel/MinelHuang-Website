@@ -5,7 +5,7 @@ type: project
 
 tags: 
 - Wearable Device
-- Embedded System
+- Embedded Systems
 - STM32
 
 authors:
@@ -68,3 +68,7 @@ We designed a Thermal Imaging Vision & Ultrasonic Obstacle Avoidance System whic
 Besides, we designed GPS & Inertial Navigation & Vision Navigation System which navigated by calling a navigation app software interface and achieved accurate velocity measurement via EKF algorithm and Kalman filter. Indoor navigation system error was ±50 cm without visual calibration and ±15 cm with visual calibration.
 
 Finally we applied for a Patent: A Wearable Intelligent Blind Guide Device (Current status: publication of invention patent application), Patent number: CN201910639192.3, and participated in the "Internet +" Innovation Competition.
+
+Link:
+
+​		Project codes:
