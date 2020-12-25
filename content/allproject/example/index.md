@@ -2,7 +2,7 @@
 title: Multi-mode Intelligent Sensing Terminal Autonomous Collaboration Technology
 summary: National key projects. Advisor - Professor Shizhong Xu
 type: project
-tags: ["Wireless Sensor Networks", "WSN", "GD32", "STM32", "embedded systems", "PSO"]
+tags: ["Wireless Sensor Networks", "WSN", "GD32", "STM32", "Embedded Systems", "PSO"]
 authors:
 - Minel Huang
 - Zobin Huang
@@ -13,7 +13,7 @@ date: "2020-12-04T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by MinelHuang
   focal_point: Smart
 
 links:
@@ -31,7 +31,7 @@ url_code: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
