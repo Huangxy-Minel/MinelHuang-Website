@@ -1,6 +1,6 @@
 ---
 title: Multi-mode Intelligent Sensing Terminal Autonomous Collaboration Technology
-summary: National key projects. Advisor: Professor Shizhong Xu
+summary: National key projects. Advisor - Professor Shizhong Xu
 type: project
 tags: ["Wireless Sensor Networks", "WSN", "GD32", "STM32", "embedded systems", "PSO"]
 
