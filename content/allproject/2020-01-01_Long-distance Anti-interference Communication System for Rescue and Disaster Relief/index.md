@@ -6,9 +6,12 @@ type: project
 tags: 
 - QPSK
 - Communication
+- Shiming Yang
+- Diwei Xie
 
 authors:
 - Minel Huang
+- Chuhan Jiang
 
 date: "2020-07-01T00:00:00Z"
 lastmod: "2020-07-01T00:00:00Z"
