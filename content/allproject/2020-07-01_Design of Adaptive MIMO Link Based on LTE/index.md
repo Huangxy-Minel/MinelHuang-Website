@@ -41,11 +41,11 @@ url_pdf: "files/Design of Adaptive MIMO Link Based on LTE Project-Report.pdf"
 #slides: example
 ---
 
-Team members:
+**Team members**:
 
 ​		Minel Huang, Chuhan Jiang, Boyu Teng
 
-### Research on Adaptive MIMO Link based on OFDM modulation
+## **Research on Adaptive MIMO Link based on OFDM modulation**
 
 In this project, we built a MIMO Link simulation environment based on MATLAB, and the system structure as follows:
 
@@ -55,6 +55,6 @@ The communication modulation is OFDM, so that we could use frequency domain info
 
 ![](./01.png)
 
-Link:
+**Link**:
 
 ​		MATLAB simulation codes:

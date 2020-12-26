@@ -41,11 +41,11 @@ url_pdf: ""
 #slides: example
 ---
 
-Team members:
+**Team members**:
 
 ​		Minel Huang, Chuhan Jiang, Shiming Yang, Diwei Xie
 
-### QPSK-based Image Transmission System
+## **QPSK-based Image Transmission System**
 
 In this project we designed a image transmission system based on QPSK modulation. We used MATLAB & Simulation to realize long-distance real-time image transmission, and used FM to communicate with interphone. The system structure is as follows:
 
@@ -61,6 +61,6 @@ The final result is as follows, and the bit error rate less than 0.0003 when rec
 
 ![](./02.png)
 
-Link:
+**Link**:
 
 ​		MATLAB & Simulation projects:

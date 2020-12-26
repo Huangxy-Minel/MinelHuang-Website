@@ -41,11 +41,11 @@ url_pdf: ""
 #slides: example
 ---
 
-Team members:
+**Team members**:
 
 ​		Minel Huang, Peng Xu, Jiajie Cai
 
-### Internet-based Signal Transmission System
+## **Internet-based Signal Transmission System**
 
 The project requirement is that collect signals at the same time and transmit the results to another terminal across the network via TCP. Therefore, we needed to design three terminals, which are responsible for collecting signals and output signal. The system structure is as follows:
 
@@ -57,6 +57,6 @@ In order to synchronously collect signal in high-speed, we introduced PTP protoc
 
 ![](./02.jpeg)
 
-Link:
+**Link**:
 
 ​		STM32 codes:

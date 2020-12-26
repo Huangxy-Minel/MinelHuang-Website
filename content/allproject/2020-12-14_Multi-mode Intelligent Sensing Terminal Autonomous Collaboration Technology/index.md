@@ -44,13 +44,13 @@ url_pdf: "files/Multi-mode Intelligent Sensing Terminal Autonomous Collaboration
 #slides: example
 ---
 
-Team members: 
+**Team members**: 
 
 ​		Minel Huang, Zobin Huang, Sijun Feng
 
 The research could be divided into two parts: Research on Efficient Cluster-based Networking Protocol for WSN & Research on RISC-V-based Intelligent Sensing Terminal.
 
-###  Research on Efficient Cluster-based Networking Protocol for WSN
+##  **Research on Efficient Cluster-based Networking Protocol for WSN**
 
 Main references: 
 
@@ -80,13 +80,13 @@ Link:
 
 
 
-### Research on RISC-V-based Intelligent Sensing Terminal
+## **Research on RISC-V-based Intelligent Sensing Terminal**
 
 We used STM32 and GD32 to implement the above networking protocols. The communication is based on 802.11g, and cluster head nodes would be AP mode. Finally we used 15 sensing nodes and 2 sink nodes to test the actual running effect of the protocol. The result was still perfect.
 
 ![](./featured.jpg)
 
-Link:
+**Link**:
 
 ​		STM32 node project:
 

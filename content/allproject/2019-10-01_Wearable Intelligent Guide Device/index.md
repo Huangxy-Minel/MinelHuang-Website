@@ -47,17 +47,17 @@ url_pdf: "files/Wearable Intelligent Guide Device.pdf"
 #slides: example
 ---
 
-Team members:
+**Team members**:
 
 ​		Minel Huang, Zobin Huang, Zhe Xu, Wenjing Lu, Yuwei Wang, Nan Chen, Hang Lu, Peng Xu, Jiajie Cai
 
-### Wearable Intelligent Guide Device
+## **Wearable Intelligent Guide Device**
 
 In this project we designed a wearable guide device for blind people. The device could help them avoid obstacles through voice interaction. In addition, it has image recognition and positioning functions, which helps blind people stay safe in complex environments. The third generation of guide device is as shown above and the second generation of guide device is as follows:
 
 ![](./01.png)
 
-### Key Technology
+## **Key Technology**
 
 The system structure is as follows:
 
@@ -69,6 +69,6 @@ Besides, we designed GPS & Inertial Navigation & Vision Navigation System which 
 
 Finally we applied for a Patent: A Wearable Intelligent Blind Guide Device (Current status: publication of invention patent application), Patent number: CN201910639192.3, and participated in the "Internet +" Innovation Competition.
 
-Link:
+**Link**:
 
 ​		Project codes:
