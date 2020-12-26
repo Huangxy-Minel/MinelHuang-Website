@@ -31,7 +31,7 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: ""
+url_code: "https://github.com/NetH-Lab/Multi-mode-Intelligent-Sensing-Terminal-Autonomous-Collaboration-Technology"
 url_pdf: "files/Multi-mode Intelligent Sensing Terminal Autonomous Collaboration Technology-Research-Report.pdf"
 #url_slides: ""
 #url_video: ""
@@ -88,8 +88,7 @@ We used STM32 and GD32 to implement the above networking protocols. The communic
 
 **Link**:
 
-​		STM32 node project:
+​		GD32 node project: https://github.com/NetH-Lab/Multi-mode-Intelligent-Sensing-Terminal-Autonomous-Collaboration-Technology/tree/main/LiteOS_Demos_WiFi
 
-​		GD32 node project:
+​		Sink node project: https://github.com/NetH-Lab/Multi-mode-Intelligent-Sensing-Terminal-Autonomous-Collaboration-Technology/tree/main/sink
 
-​		Sink node project:
