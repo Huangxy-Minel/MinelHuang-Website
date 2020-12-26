@@ -34,7 +34,7 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: ""
+url_code: "https://github.com/Huangxy-Minel/Wearable-Intelligent-Guide-Device"
 url_pdf: "files/Wearable Intelligent Guide Device.pdf"
 #url_slides: ""
 #url_video: ""
