@@ -57,4 +57,4 @@ The communication modulation is OFDM, so that we could use frequency domain info
 
 **Link**:
 
-​		MATLAB simulation codes:
+​		MATLAB simulation codes: https://github.com/Huangxy-Minel/Adaptive-MIMO-Link-Based-on-LTE

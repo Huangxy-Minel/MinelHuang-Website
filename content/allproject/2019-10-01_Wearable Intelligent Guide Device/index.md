@@ -71,4 +71,4 @@ Finally we applied for a Patent: A Wearable Intelligent Blind Guide Device (Curr
 
 **Link**:
 
-​		Project codes:
+​		Project codes: https://github.com/Huangxy-Minel/Wearable-Intelligent-Guide-Device

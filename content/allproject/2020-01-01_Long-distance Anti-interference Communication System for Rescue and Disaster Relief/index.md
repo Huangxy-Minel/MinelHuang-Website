@@ -63,4 +63,4 @@ The final result is as follows, and the bit error rate less than 0.0003 when rec
 
 **Link**:
 
-​		MATLAB & Simulation projects:
+​		MATLAB & Simulation projects: https://github.com/Huangxy-Minel/Long-distance-Anti-interference-Communication-System-for-Rescue-and-Disaster-Relief

@@ -55,4 +55,4 @@ Finally, we used FL Studio to compose digital synthesized sounds into tracks and
 
 ​		You can listen the complete song by [this](https://huangxy-minel.github.io/assets/スパークル.wav). 
 
-​		Complete project:
+​		Complete project: https://github.com/Huangxy-Minel/Digital-Musical-Instrument-Based-on-Matlab
