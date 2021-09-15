@@ -27,6 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Distributed Systems
+    tag: Distributed Systems
+  - name: Privacy Computing
+    tag: Privacy Computing
   - name: Network Science
     tag: Network Science
   - name: Embedded Systems

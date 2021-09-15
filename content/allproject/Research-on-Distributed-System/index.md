@@ -3,8 +3,6 @@ title: Research on Distributed Systems
 summary: 分布式系统研究过程纪要
 type: project
 tags: 
-- 科研项目
-- 工程项目
 - Distributed Systems
 - Distributed Computing
 - Scheduling

@@ -3,8 +3,6 @@ title: Research on Privacy Computing
 summary: 隐私计算研究过程纪要
 type: project
 tags: 
-- 科研项目
-- 工程项目
 - Privacy Computing
 - Feterated Learning
 authors:
