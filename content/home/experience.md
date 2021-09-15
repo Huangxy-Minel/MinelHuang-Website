@@ -27,7 +27,7 @@ experience:
     company_url: ''
     location: Chengdu, China
     date_start: '2017-09-01'
-    date_end: ''
+    date_end: '2017-06-30'
     description: ''
 
   - title: Internship
@@ -42,4 +42,15 @@ experience:
         * Analyzed and summarized the authentication and key interaction methods in 802.11 and participated in maintaining the existing access network project.
         * Researched the 802.11ax protocol and collaborated on the programming of a new generation wireless router.
         
+  - title: Internship
+    company: CLUSTAR星云
+    company_url: ''
+    location: Shenzhen, China
+    date_start: '2021-03-01'
+    date_end: '2021-08-13'
+    description: |2-
+        Responsibilities include:
+        
+        * Researched on heterogeneous accelerator cards suitable for privacy computing.
+        * Establish and maintain the project docker environment.
 ---
