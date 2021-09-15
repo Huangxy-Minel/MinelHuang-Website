@@ -2,7 +2,7 @@
 title: Undefined Band
 
 # Summary for listings and search engines
-summary: Band establishment!
+summary: Our band is formed and the first performance!
 
 # Link this post with a project
 projects: []
@@ -34,7 +34,7 @@ tags:
 - Music
 ---
 
-## Establish and Perform
+## Form and Perform
 
 ![](./01.jpg)
 

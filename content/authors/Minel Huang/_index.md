@@ -27,7 +27,10 @@ education:
   courses:
   - course: BSc in Network Engineering
     institution: University of Electronic and Science Technology of China
-    year: 2021
+    year: '2017 - 2021'
+  - course: MPhil in Computer Science Engineering
+    institution: Hong Kong University of Science and Technology
+    year: '2021 - now'
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'huangxy.minel@gmail.com'
+  link: 'xhuangci@cse.hk.ust'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -66,7 +69,7 @@ email: ""
 highlight_name: false
 ---
 
-Welcome to my personal website! I'm Xinyang Huang, a senior major in Network Engineering at the University of Electronic Science and Technology of China. You can browse my main experiences, daily life, projects and publications at this website. 
+Welcome to my personal website! I'm Xinyang Huang, a postgraduate major in Computer Science at Hong Kong University of Science and Technology. I have obtained a bachelor's degree of Network Engineering at the University of Electronic Science and Technology of China. You can browse my main experiences, daily life, projects and publications at this website. 
 
 If you also interested in the project development processes, maybe https://neth-lab.netlify.app/ could satisfy your needs.
 
