@@ -6,11 +6,11 @@ title: Minel Huang
 superuser: true
 
 # Role/position/tagline
-role: Bachelor of Network Engineering
+role: MPhil of Computer Science Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Electronic and Science Technology of China
+- name: Hong Kong University of Science and Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
