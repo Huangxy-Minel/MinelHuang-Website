@@ -14,23 +14,23 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed system, network science and datacenter networks.
+bio: My research interests include distributed computing frameworks, distributed machine learning and communication optimization.
 
 # Interests to show in About widget
 interests:
-- Distributed Systems
-- Network Science
-- Datacenter Networks
+- Distributed Computing Frameworks
+- Distributed Machine Learning
+- Communication Optimization
 
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Network Engineering
-    institution: University of Electronic and Science Technology of China
-    year: '2017 - 2021'
   - course: MPhil in Computer Science Engineering
     institution: Hong Kong University of Science and Technology
     year: '2021 - now'
+  - course: BSc in Network Engineering
+    institution: University of Electronic and Science Technology of China
+    year: '2017 - 2021'
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
