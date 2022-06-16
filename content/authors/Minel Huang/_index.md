@@ -69,7 +69,7 @@ email: ""
 highlight_name: false
 ---
 
-Welcome to my personal website! I'm Xinyang Huang, a postgraduate major in Computer Science at Hong Kong University of Science and Technology. I have obtained a bachelor's degree of Network Engineering at the University of Electronic Science and Technology of China. You can browse my main experiences, daily life, projects and publications at this website. 
+Welcome to my personal website! I'm Xinyang Huang, a MPhild student major in Computer Science at Hong Kong University of Science and Technology. I have obtained a bachelor's degree of Network Engineering at the University of Electronic Science and Technology of China. You can browse my main experiences, daily life, projects and publications at this website. 
 
-If you also interested in the project development processes, maybe https://neth-lab.netlify.app/ could satisfy your needs.
+If you are also interested in the project development processes, maybe https://neth-lab.netlify.app/ could satisfy your needs.
 

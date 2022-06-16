@@ -47,10 +47,19 @@ experience:
     company_url: ''
     location: Shenzhen, China
     date_start: '2021-03-01'
-    date_end: '2021-08-13'
+    date_end: 'Present'
     description: |2-
         Responsibilities include:
         
-        * Researched on heterogeneous accelerator cards suitable for privacy computing.
-        * Establish and maintain the project docker environment.
+        * Developed Distributed GPU Accelerating Engine for large-scale Federated Learning jobs 
+        * Deployed and maintained cross-datacenter Spark-based FATE
+        * Developed GPU-Based Acceleration for Federated Logistic Regression
+
+  - title: MPhil
+    company: Hong Kong University of Science and Technology 
+    company_url: ''
+    location: Hong Kong, China
+    date_start: '2021-09-01'
+    date_end: 'Present'
+    description: ''
 ---
