@@ -47,7 +47,7 @@ experience:
     company_url: ''
     location: Shenzhen, China
     date_start: '2021-03-01'
-    date_end: 'Present'
+    date_end: '2022-06-16'
     description: |3-
         Responsibilities include:
         
@@ -60,6 +60,6 @@ experience:
     company_url: ''
     location: Hong Kong, China
     date_start: '2021-09-01'
-    date_end: 'Present'
+    date_end: '2023-07-01'
     description: ''
 ---
