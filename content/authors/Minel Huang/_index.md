@@ -18,9 +18,9 @@ bio: My research interests include distributed computing frameworks, distributed
 
 # Interests to show in About widget
 interests:
-- Distributed Computing Frameworks
+- System design for Federated Learning & Homomorphic Encryption
 - Distributed Machine Learning
-- Communication Optimization
+- Computation & Communication Optimization
 
 # Education to show in About widget
 education:
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'xhuangci@cse.hk.ust'
+  link: 'xhuangci@cse.ust.hk'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
