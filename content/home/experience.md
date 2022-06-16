@@ -48,7 +48,7 @@ experience:
     location: Shenzhen, China
     date_start: '2021-03-01'
     date_end: 'Present'
-    description: |2-
+    description: |3-
         Responsibilities include:
         
         * Developed Distributed GPU Accelerating Engine for large-scale Federated Learning jobs 
