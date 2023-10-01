@@ -18,9 +18,9 @@ bio: My research interests include host network, SmartNIC, and federated learnin
 
 # Interests to show in About widget
 interests:
-- Host network
+- Host Network
 - SmartNIC
-- System design for Federated Learning & Homomorphic Encryption
+- Federated Learning & Homomorphic Encryption
 
 # Education to show in About widget
 education:
@@ -56,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/CV_Xinyang-Huang.pdf
+  link: files/CV_Xinyang_HUANG.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
