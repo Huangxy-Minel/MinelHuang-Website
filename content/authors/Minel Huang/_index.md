@@ -14,20 +14,23 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed computing frameworks, distributed machine learning and communication optimization.
+bio: My research interests include host network, SmartNIC, and federated learning.
 
 # Interests to show in About widget
 interests:
+- Host network
+- SmartNIC
 - System design for Federated Learning & Homomorphic Encryption
-- Distributed Machine Learning
-- Computation & Communication Optimization
 
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Computer Science Engineering
+    institution: Hong Kong University of Science and Technology
+    year: '2023 - Now'
   - course: MPhil in Computer Science Engineering
     institution: Hong Kong University of Science and Technology
-    year: '2021 - now'
+    year: '2021 - 2023'
   - course: BSc in Network Engineering
     institution: University of Electronic and Science Technology of China
     year: '2017 - 2021'
