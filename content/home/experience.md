@@ -62,4 +62,12 @@ experience:
     date_start: '2021-09-01'
     date_end: '2023-07-01'
     description: ''
+
+  - title: PhD
+    company: Hong Kong University of Science and Technology 
+    company_url: ''
+    location: Hong Kong, China
+    date_start: '2023-09-01'
+    date_end: '2026-07-01'
+    description: ''
 ---
