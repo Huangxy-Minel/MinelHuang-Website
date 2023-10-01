@@ -1,5 +1,5 @@
 ---
-title: "HAFLO - GPU-Based Acceleration for Federated Logistic Regression"
+title: "HAFLO_GPU-Based Acceleration for Federated Logistic Regression"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -8,7 +8,6 @@ authors:
 - Xiaodian CHENG
 - Wanhang LU
 - Xinyang HUANG
-- etc.
 
 # Author notes (optional)
 # author_notes:
